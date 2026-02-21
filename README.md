@@ -23,5 +23,5 @@ I track my technical growth and current coding sprints through my **[Portfolio D
 
 ### Current Sprints:
 * **In Progress:** C++ Advanced Memory Management System
-* **Todo:** Java Object-Oriented Design Patterns Library
+* **QA/Code Review:** Java Object-Oriented Design Patterns Library
 * **Todo:** Python Agentic Transcript Reviewer
