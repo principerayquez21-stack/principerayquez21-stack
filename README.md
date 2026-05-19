@@ -1,27 +1,38 @@
-## Hi there 👋
-I'm Kenneth Robinson-Neal 
+# Kenneth Robinson-Neal 
+### Software Engineer | Code Quality Analyst | Technical Management Trajectory
 
-I am a **Computer Science** student at **Maestro College** focused on building high-performance systems and scalable software. My background as an **AI Trainer** and **Code Quality Analyst** has instilled a rigorous standard for "production-ready" code, ensuring that every project I develop is optimized for logic and maintainability.
+I am a **Computer Science** student at **Maestro College** bridging the gap between raw code generation and production-grade software architecture. My current trajectory is focused on transitioning into Technical Management. Drawing from my experience as an AI Trainer and Human-in-the-Loop (HITL) specialist, I enforce rigorous standards for logical soundness, maintainability, and architectural integrity in every development cycle.
 
-## 🛠️ Technical Focus
-* **Systems Programming:** Deep diving into memory management and resource optimization using **C++**.
-* **Enterprise Architecture:** Implementing robust, modular design patterns with **Java**.
+---
 
-* **Agentic AI Systems:** Leveraging **Python** and **Claude AI** to build automated, intelligent workflows, specifically in **transcript review agentic coding**.
-## 🧰 Skills & Tools
+## 🏗️ Architectural Focus & Competencies
 
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+* **Agentic AI & Automation (Python / Swift):** Architecting intelligent workflows and leveraging LLMs (like Claude AI) for automated transcript review, agentic coding execution, and systemic data processing.
+* **Systems Programming (C++):** Deep focus on memory management, resource allocation optimization, and low-level efficiencies.
+* **Enterprise Software (Java):** Implementing modular design patterns, scalable backend structures, and robust object-oriented principles to reduce technical debt.
 
-### AI & Frameworks
-![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-## 🚀 Professional Workflow
-I track my technical growth and current coding sprints through my **[Portfolio Development Roadmap](https://github.com/users/principerayquez21-stack/projects/2)**.
+---
 
-### Current Sprints:
-* **In Progress:** C++ Advanced Memory Management System
-* **QA/Code Review:** Java Object-Oriented Design Patterns Library
-* **Todo:** Python Agentic Transcript Reviewer
+## ⚙️ Technical Stack
+
+**Core Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+
+**Frameworks & Platforms:** ![Claude AI](https://img.shields.io/badge/Claude_AI-D97706?style=flat-square) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 📊 Professional Standards & Workflow
+
+* **Code Quality Enforcement:** Focused on identifying architectural mistakes early in the lifecycle and driving architectural wins through direct, actionable code review feedback.
+* **Process Optimization:** Dedicated to eliminating redundant discussions by keeping development sprints focused strictly on state-advancing improvements.
+* **Strategic Roadmap:** All technical growth and current coding sprints are tracked through a formalized Portfolio Development Roadmap.
+
+---
+
+### 📬 Contact & Coordination
+* **Email:** [principerayquez21@gmail.com](mailto:principerayquez21@gmail.com)
+* **LinkedIn:** [www.linkedin.com/in/kenneth-robinson-neal-99088899]
